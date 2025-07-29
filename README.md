@@ -4,18 +4,18 @@ Submitted by: **Aldo Ruiz Parra**
 
 **Task App** is an app that is intended to create a task management application.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a list of tasks
-- [ ] Users can add tasks to the list
-- [ ] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-  - [ ] Note: You have to quit the app, not minimize it, in order to see the persistence.
-- [ ] Tasks can be deleted
-- [ ] Users have a calendar view via navigation controller that displays tasks	
+- [X] App displays a list of tasks
+- [X] Users can add tasks to the list
+- [X] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
+  - [X] Note: You have to quit the app, not minimize it, in order to see the persistence.
+- [X] Tasks can be deleted
+- [X] Users have a calendar view via navigation controller that displays tasks	
 
 
 The following **additional** features are implemented:
@@ -26,13 +26,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+Loom Link: https://www.loom.com/share/ccc5a2dfeb5940fe98b4fa44fa66eb5d?sid=07097235-71b0-4822-b070-a6601acd3a5a
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+One of the main challenges was figuring out how tab bar controllers worked. I had difficulty embedding the tab bar to the main navigation controller, and connecting ith with the calendar.
 
 ## License
 
